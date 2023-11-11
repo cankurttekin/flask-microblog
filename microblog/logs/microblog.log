@@ -94,3 +94,6 @@ Traceback (most recent call last):
     raise SMTPAuthenticationError(code, resp)
 smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials g4-20020ac870c4000000b004181e5a724csm622200qtp.88 - gsmtp')
 2023-11-11 12:16:16,806 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:43]
+2023-11-11 12:35:07,577 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:43]
+2023-11-11 12:55:04,946 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:45]
+2023-11-11 13:39:14,783 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:45]
