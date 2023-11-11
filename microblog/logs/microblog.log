@@ -97,3 +97,5 @@ smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepte
 2023-11-11 12:35:07,577 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:43]
 2023-11-11 12:55:04,946 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:45]
 2023-11-11 13:39:14,783 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:45]
+2023-11-11 13:44:56,259 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:45]
+2023-11-11 13:52:59,455 INFO: Microblog startup [in /home/can/Documents/GitHub/flask-example/microblog/app/__init__.py:47]
