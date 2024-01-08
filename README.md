@@ -14,6 +14,10 @@
   It will run on http://127.0.0.1:5000.
 
 
+## Screenshots
+
+  - **Route Explore**
+  ![alt text](https://github.com/cankurttekin/flask-blog/blob/main/screenshots/explore.png)
 
 ## Features to be added later:
 
